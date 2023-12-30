@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'prorigproject2.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'prorigdb2',
-        'USER' : 'postgres',
-        'PASSWORD': '15741818',
+        'USER' : 'prorigdb2',
+        'PASSWORD': '0000',
         'HOST': 'localhost'
     }
 }
