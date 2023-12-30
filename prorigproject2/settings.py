@@ -79,7 +79,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'prorigdb2',
-        'USER' : 'prorigdb2',
+        'USER' : 'proriguser',
         'PASSWORD': '0000',
         'HOST': 'localhost'
     }
