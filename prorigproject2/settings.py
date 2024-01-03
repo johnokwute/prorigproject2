@@ -81,8 +81,8 @@ DATABASES = {
         'NAME': 'prorigdb2',
         'USER' : 'proriguser',
         'PASSWORD': '0000',
-        'HOST': 'localhost'
-        'PORT': '',
+        'HOST': 'localhost',
+        'PORT': ' ',
     }
 }
 
